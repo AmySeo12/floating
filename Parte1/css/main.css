@@ -1,0 +1,17 @@
+.contenedor {
+	width: 100%;
+	border: 1px solid black;
+}
+.a, .b, .c {
+	width: 25%;
+	height: 100px;
+}
+.a {
+	background: #FFFF00;
+}
+.b {
+	background: #3A81BA;
+}
+.c {
+	background: #ED2251;
+}
